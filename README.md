@@ -1,6 +1,6 @@
 # Anomaly-Detection
 
-Anomaly Detection plays the first step in condition monitoring and  predictive maintenance of industrial equipment in process industries. Industrial equipment includes motors, pumps and pipelines. The most predominant method is vibration monitoring. Sensor data from industrial equipment are explored to identify potential anomalies.
+Anomaly Detection plays the first step in condition monitoring and  predictive maintenance of industrial equipment in process industries. Industrial equipment includes motors, pumps and pipelines. The most predominant method is vibration monitoring. Sensor data from industrial equipment are explored to identify potential anomalies. Co-published a [research paper](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/0d8f28f0-b72e-4809-bd49-9d42c7b85199/content) on page 68, related to visualization of training process used in anomaly detection.
 
 The project consists of 2 steps:
 1. Data Engineering - Performing ETL on sensor data
